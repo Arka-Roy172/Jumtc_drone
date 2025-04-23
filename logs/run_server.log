@@ -1,0 +1,63 @@
+2025-04-15 08:56:46,006 - drone_simulator.run_server - INFO [run_server.py:34] - Starting Drone Simulator Server on 0.0.0.0:8765
+2025-04-15 08:56:46,006 - drone_simulator.run_server - INFO [run_server.py:35] - Admin server will run on 0.0.0.0:8766
+2025-04-15 08:56:46,007 - drone_simulator.run_server - INFO [run_server.py:36] - Process ID: 5580
+2025-04-15 08:56:46,007 - drone_simulator.run_server - INFO [run_server.py:37] - Python version: 3.12.6 (tags/v3.12.6:a4a2d2b, Sep  6 2024, 20:11:23) [MSC v.1940 64 bit (AMD64)]
+2025-04-15 08:56:46,007 - drone_simulator.run_server - INFO [run_server.py:38] - Current directory: C:\Users\HP\Desktop\Software_R2
+2025-04-15 09:00:08,126 - drone_simulator.run_server - INFO [run_server.py:54] - Server tasks cancelled
+2025-04-15 09:00:32,925 - drone_simulator.run_server - INFO [run_server.py:34] - Starting Drone Simulator Server on 0.0.0.0:8765
+2025-04-15 09:00:32,925 - drone_simulator.run_server - INFO [run_server.py:35] - Admin server will run on 0.0.0.0:8766
+2025-04-15 09:00:32,925 - drone_simulator.run_server - INFO [run_server.py:36] - Process ID: 1832
+2025-04-15 09:00:32,925 - drone_simulator.run_server - INFO [run_server.py:37] - Python version: 3.12.6 (tags/v3.12.6:a4a2d2b, Sep  6 2024, 20:11:23) [MSC v.1940 64 bit (AMD64)]
+2025-04-15 09:00:32,926 - drone_simulator.run_server - INFO [run_server.py:38] - Current directory: C:\Users\HP\Desktop\Software_R2
+2025-04-15 09:02:14,361 - drone_simulator.run_server - INFO [run_server.py:54] - Server tasks cancelled
+2025-04-15 09:03:41,388 - drone_simulator.run_server - INFO [run_server.py:34] - Starting Drone Simulator Server on 0.0.0.0:8765
+2025-04-15 09:03:41,388 - drone_simulator.run_server - INFO [run_server.py:35] - Admin server will run on 0.0.0.0:8766
+2025-04-15 09:03:41,388 - drone_simulator.run_server - INFO [run_server.py:36] - Process ID: 19576
+2025-04-15 09:03:41,388 - drone_simulator.run_server - INFO [run_server.py:37] - Python version: 3.12.6 (tags/v3.12.6:a4a2d2b, Sep  6 2024, 20:11:23) [MSC v.1940 64 bit (AMD64)]
+2025-04-15 09:03:41,388 - drone_simulator.run_server - INFO [run_server.py:38] - Current directory: C:\Users\HP\Desktop\Software_R2
+2025-04-15 09:22:52,845 - drone_simulator.run_server - INFO [run_server.py:54] - Server tasks cancelled
+2025-04-15 09:46:22,888 - drone_simulator.run_server - INFO [run_server.py:34] - Starting Drone Simulator Server on 0.0.0.0:8765
+2025-04-15 09:46:22,889 - drone_simulator.run_server - INFO [run_server.py:35] - Admin server will run on 0.0.0.0:8766
+2025-04-15 09:46:22,889 - drone_simulator.run_server - INFO [run_server.py:36] - Process ID: 2564
+2025-04-15 09:46:22,889 - drone_simulator.run_server - INFO [run_server.py:37] - Python version: 3.12.6 (tags/v3.12.6:a4a2d2b, Sep  6 2024, 20:11:23) [MSC v.1940 64 bit (AMD64)]
+2025-04-15 09:46:22,889 - drone_simulator.run_server - INFO [run_server.py:38] - Current directory: C:\Users\HP\Desktop\Software_R2
+2025-04-15 09:48:06,423 - drone_simulator.run_server - INFO [run_server.py:54] - Server tasks cancelled
+2025-04-15 09:54:13,894 - drone_simulator.run_server - INFO [run_server.py:34] - Starting Drone Simulator Server on 0.0.0.0:8765
+2025-04-15 09:54:13,895 - drone_simulator.run_server - INFO [run_server.py:35] - Admin server will run on 0.0.0.0:8766
+2025-04-15 09:54:13,895 - drone_simulator.run_server - INFO [run_server.py:36] - Process ID: 12576
+2025-04-15 09:54:13,896 - drone_simulator.run_server - INFO [run_server.py:37] - Python version: 3.12.6 (tags/v3.12.6:a4a2d2b, Sep  6 2024, 20:11:23) [MSC v.1940 64 bit (AMD64)]
+2025-04-15 09:54:13,896 - drone_simulator.run_server - INFO [run_server.py:38] - Current directory: C:\Users\HP\Desktop\Software_R2
+2025-04-15 10:05:36,397 - drone_simulator.run_server - INFO [run_server.py:54] - Server tasks cancelled
+2025-04-15 10:14:11,696 - drone_simulator.run_server - INFO [run_server.py:34] - Starting Drone Simulator Server on 0.0.0.0:8765
+2025-04-15 10:14:11,697 - drone_simulator.run_server - INFO [run_server.py:35] - Admin server will run on 0.0.0.0:8766
+2025-04-15 10:14:11,698 - drone_simulator.run_server - INFO [run_server.py:36] - Process ID: 9556
+2025-04-15 10:14:11,699 - drone_simulator.run_server - INFO [run_server.py:37] - Python version: 3.12.6 (tags/v3.12.6:a4a2d2b, Sep  6 2024, 20:11:23) [MSC v.1940 64 bit (AMD64)]
+2025-04-15 10:14:11,699 - drone_simulator.run_server - INFO [run_server.py:38] - Current directory: C:\Users\HP\Desktop\Software_R2
+2025-04-15 11:49:25,860 - drone_simulator.run_server - INFO [run_server.py:54] - Server tasks cancelled
+2025-04-15 20:47:05,310 - drone_simulator.run_server - INFO [run_server.py:34] - Starting Drone Simulator Server on 0.0.0.0:8765
+2025-04-15 20:47:05,311 - drone_simulator.run_server - INFO [run_server.py:35] - Admin server will run on 0.0.0.0:8766
+2025-04-15 20:47:05,311 - drone_simulator.run_server - INFO [run_server.py:36] - Process ID: 19524
+2025-04-15 20:47:05,311 - drone_simulator.run_server - INFO [run_server.py:37] - Python version: 3.12.6 (tags/v3.12.6:a4a2d2b, Sep  6 2024, 20:11:23) [MSC v.1940 64 bit (AMD64)]
+2025-04-15 20:47:05,311 - drone_simulator.run_server - INFO [run_server.py:38] - Current directory: C:\Users\HP\Desktop\Software_R2
+2025-04-15 20:50:04,011 - drone_simulator.run_server - INFO [run_server.py:54] - Server tasks cancelled
+2025-04-18 08:01:23,988 - drone_simulator.run_server - INFO [run_server.py:34] - Starting Drone Simulator Server on 0.0.0.0:8765
+2025-04-18 08:01:23,990 - drone_simulator.run_server - INFO [run_server.py:35] - Admin server will run on 0.0.0.0:8766
+2025-04-18 08:01:23,990 - drone_simulator.run_server - INFO [run_server.py:36] - Process ID: 10144
+2025-04-18 08:01:23,990 - drone_simulator.run_server - INFO [run_server.py:37] - Python version: 3.12.6 (tags/v3.12.6:a4a2d2b, Sep  6 2024, 20:11:23) [MSC v.1940 64 bit (AMD64)]
+2025-04-18 08:01:23,991 - drone_simulator.run_server - INFO [run_server.py:38] - Current directory: C:\Users\HP\Desktop\Software_R2
+2025-04-18 08:04:01,337 - drone_simulator.run_server - INFO [run_server.py:54] - Server tasks cancelled
+2025-04-18 08:07:43,805 - drone_simulator.run_server - INFO [run_server.py:34] - Starting Drone Simulator Server on 0.0.0.0:8765
+2025-04-18 08:07:43,805 - drone_simulator.run_server - INFO [run_server.py:35] - Admin server will run on 0.0.0.0:8766
+2025-04-18 08:07:43,805 - drone_simulator.run_server - INFO [run_server.py:36] - Process ID: 10740
+2025-04-18 08:07:43,805 - drone_simulator.run_server - INFO [run_server.py:37] - Python version: 3.12.6 (tags/v3.12.6:a4a2d2b, Sep  6 2024, 20:11:23) [MSC v.1940 64 bit (AMD64)]
+2025-04-18 08:07:43,805 - drone_simulator.run_server - INFO [run_server.py:38] - Current directory: C:\Users\HP\Desktop\Software_R2
+2025-04-18 08:23:43,089 - drone_simulator.run_server - INFO [run_server.py:34] - Starting Drone Simulator Server on 0.0.0.0:8765
+2025-04-18 08:23:43,089 - drone_simulator.run_server - INFO [run_server.py:35] - Admin server will run on 0.0.0.0:8766
+2025-04-18 08:23:43,090 - drone_simulator.run_server - INFO [run_server.py:36] - Process ID: 17664
+2025-04-18 08:23:43,090 - drone_simulator.run_server - INFO [run_server.py:37] - Python version: 3.12.6 (tags/v3.12.6:a4a2d2b, Sep  6 2024, 20:11:23) [MSC v.1940 64 bit (AMD64)]
+2025-04-18 08:23:43,090 - drone_simulator.run_server - INFO [run_server.py:38] - Current directory: C:\Users\HP\Desktop\Software_R2
+2025-04-21 12:13:55,534 - drone_simulator.run_server - INFO [run_server.py:34] - Starting Drone Simulator Server on 0.0.0.0:8765
+2025-04-21 12:13:55,536 - drone_simulator.run_server - INFO [run_server.py:35] - Admin server will run on 0.0.0.0:8766
+2025-04-21 12:13:55,537 - drone_simulator.run_server - INFO [run_server.py:36] - Process ID: 13204
+2025-04-21 12:13:55,538 - drone_simulator.run_server - INFO [run_server.py:37] - Python version: 3.12.6 (tags/v3.12.6:a4a2d2b, Sep  6 2024, 20:11:23) [MSC v.1940 64 bit (AMD64)]
+2025-04-21 12:13:55,538 - drone_simulator.run_server - INFO [run_server.py:38] - Current directory: C:\Users\HP\Desktop\Software_R2

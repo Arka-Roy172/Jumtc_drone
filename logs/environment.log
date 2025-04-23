@@ -1,0 +1,300 @@
+2025-04-15 09:09:42,321 - drone_simulator.environment - INFO [environment.py:144] - Dust storm event triggered
+2025-04-15 10:04:35,823 - drone_simulator.environment - INFO [environment.py:144] - Dust storm event triggered
+2025-04-15 10:04:35,824 - drone_simulator.environment - INFO [environment.py:175] - Sensor status YELLOW - Dust: 53.6052800446298%, Wind: 68.30816122329558%
+2025-04-15 10:14:49,027 - drone_simulator.environment - INFO [environment.py:144] - Dust storm event triggered
+2025-04-15 10:14:49,029 - drone_simulator.environment - INFO [environment.py:175] - Sensor status YELLOW - Dust: 68.83401837638569%, Wind: 68.83401837638569%
+2025-04-15 10:14:49,039 - drone_simulator.environment - INFO [environment.py:144] - Dust storm event triggered
+2025-04-15 10:14:49,041 - drone_simulator.environment - WARNING [environment.py:171] - Sensor status RED - Dust: 100%, Wind: 100%
+2025-04-15 10:17:33,589 - drone_simulator.environment - INFO [environment.py:144] - Dust storm event triggered
+2025-04-15 10:17:37,656 - drone_simulator.environment - INFO [environment.py:144] - Dust storm event triggered
+2025-04-15 10:17:37,656 - drone_simulator.environment - INFO [environment.py:175] - Sensor status YELLOW - Dust: 77.02216597975917%, Wind: 64.90409921965875%
+2025-04-15 10:17:41,465 - drone_simulator.environment - INFO [environment.py:175] - Sensor status YELLOW - Dust: 71.68999075197407%, Wind: 57.07884185641733%
+2025-04-15 10:17:46,195 - drone_simulator.environment - INFO [environment.py:144] - Dust storm event triggered
+2025-04-15 10:17:46,196 - drone_simulator.environment - WARNING [environment.py:171] - Sensor status RED - Dust: 100%, Wind: 100%
+2025-04-15 10:19:54,299 - drone_simulator.environment - INFO [environment.py:144] - Dust storm event triggered
+2025-04-15 10:19:54,299 - drone_simulator.environment - INFO [environment.py:175] - Sensor status YELLOW - Dust: 70.60153430799515%, Wind: 70.56484124787659%
+2025-04-15 10:19:58,615 - drone_simulator.environment - INFO [environment.py:144] - Dust storm event triggered
+2025-04-15 10:19:58,616 - drone_simulator.environment - WARNING [environment.py:171] - Sensor status RED - Dust: 100%, Wind: 100%
+2025-04-15 10:23:10,643 - drone_simulator.environment - INFO [environment.py:144] - Dust storm event triggered
+2025-04-15 10:23:14,587 - drone_simulator.environment - INFO [environment.py:144] - Dust storm event triggered
+2025-04-15 10:23:14,587 - drone_simulator.environment - WARNING [environment.py:171] - Sensor status RED - Dust: 91.4980450878413%, Wind: 100%
+2025-04-15 11:45:08,923 - drone_simulator.environment - INFO [environment.py:144] - Dust storm event triggered
+2025-04-15 11:45:08,923 - drone_simulator.environment - INFO [environment.py:175] - Sensor status YELLOW - Dust: 55.616284777330875%, Wind: 61.425904547432296%
+2025-04-15 20:47:33,190 - drone_simulator.environment - INFO [environment.py:144] - Dust storm event triggered
+2025-04-15 20:47:33,191 - drone_simulator.environment - INFO [environment.py:175] - Sensor status YELLOW - Dust: 60.02578200759425%, Wind: 63.03840742072178%
+2025-04-15 20:47:37,002 - drone_simulator.environment - INFO [environment.py:144] - Dust storm event triggered
+2025-04-15 20:47:37,003 - drone_simulator.environment - WARNING [environment.py:171] - Sensor status RED - Dust: 86.32782264321948%, Wind: 100%
+2025-04-15 20:49:09,205 - drone_simulator.environment - INFO [environment.py:144] - Dust storm event triggered
+2025-04-15 20:49:09,207 - drone_simulator.environment - INFO [environment.py:175] - Sensor status YELLOW - Dust: 63.11814180888186%, Wind: 69.70181904505503%
+2025-04-15 20:49:14,675 - drone_simulator.environment - INFO [environment.py:175] - Sensor status YELLOW - Dust: 68.27149122152846%, Wind: 80.29485029997713%
+2025-04-15 20:49:18,864 - drone_simulator.environment - INFO [environment.py:144] - Dust storm event triggered
+2025-04-15 20:49:18,864 - drone_simulator.environment - WARNING [environment.py:171] - Sensor status RED - Dust: 100%, Wind: 100%
+2025-04-21 12:14:15,214 - drone_simulator.environment - INFO [environment.py:144] - Dust storm event triggered
+2025-04-21 12:14:15,222 - drone_simulator.environment - WARNING [environment.py:171] - Sensor status RED - Dust: 62.58314655834767%, Wind: 94.01336866794213%
+2025-04-21 12:14:16,249 - drone_simulator.environment - INFO [environment.py:175] - Sensor status YELLOW - Dust: 56.52604728910895%, Wind: 85.7359824463616%
+2025-04-21 12:38:27,125 - drone_simulator.environment - INFO [environment.py:144] - Dust storm event triggered
+2025-04-21 12:40:51,310 - drone_simulator.environment - INFO [environment.py:144] - Dust storm event triggered
+2025-04-21 12:41:27,195 - drone_simulator.environment - INFO [environment.py:144] - Dust storm event triggered
+2025-04-21 12:41:35,368 - drone_simulator.environment - INFO [environment.py:175] - Sensor status YELLOW - Dust: 29.50446922797522%, Wind: 63.560020966496%
+2025-04-21 18:09:37,733 - drone_simulator.environment - INFO [environment.py:144] - Dust storm event triggered
+2025-04-21 18:09:37,735 - drone_simulator.environment - INFO [environment.py:175] - Sensor status YELLOW - Dust: 66.92426928430203%, Wind: 66.00871386710013%
+2025-04-21 19:13:24,739 - drone_simulator.environment - INFO [environment.py:144] - Dust storm event triggered
+2025-04-21 19:13:26,772 - drone_simulator.environment - INFO [environment.py:175] - Sensor status YELLOW - Dust: 45.01595441724601%, Wind: 62.426791108724984%
+2025-04-21 19:13:28,824 - drone_simulator.environment - INFO [environment.py:175] - Sensor status YELLOW - Dust: 54.271887868261445%, Wind: 60.0913847636746%
+2025-04-21 19:13:29,837 - drone_simulator.environment - INFO [environment.py:144] - Dust storm event triggered
+2025-04-21 19:13:29,837 - drone_simulator.environment - WARNING [environment.py:171] - Sensor status RED - Dust: 100%, Wind: 88.49726436127054%
+2025-04-21 19:13:56,772 - drone_simulator.environment - INFO [environment.py:144] - Dust storm event triggered
+2025-04-21 19:13:59,870 - drone_simulator.environment - INFO [environment.py:144] - Dust storm event triggered
+2025-04-21 19:13:59,871 - drone_simulator.environment - WARNING [environment.py:171] - Sensor status RED - Dust: 100%, Wind: 100%
+2025-04-22 21:19:05,726 - drone_simulator.environment - INFO [environment.py:144] - Dust storm event triggered
+2025-04-22 21:19:06,737 - drone_simulator.environment - INFO [environment.py:175] - Sensor status YELLOW - Dust: 56.12423197399619%, Wind: 65.32561722898583%
+2025-04-22 21:19:07,747 - drone_simulator.environment - INFO [environment.py:144] - Dust storm event triggered
+2025-04-22 21:19:07,747 - drone_simulator.environment - WARNING [environment.py:171] - Sensor status RED - Dust: 100%, Wind: 100%
+2025-04-22 21:19:35,238 - drone_simulator.environment - INFO [environment.py:144] - Dust storm event triggered
+2025-04-22 21:19:35,239 - drone_simulator.environment - INFO [environment.py:175] - Sensor status YELLOW - Dust: 52.97743265057766%, Wind: 66.14692305702053%
+2025-04-22 21:19:36,261 - drone_simulator.environment - INFO [environment.py:144] - Dust storm event triggered
+2025-04-22 21:19:36,263 - drone_simulator.environment - WARNING [environment.py:171] - Sensor status RED - Dust: 100%, Wind: 100%
+2025-04-22 21:20:12,997 - drone_simulator.environment - INFO [environment.py:144] - Dust storm event triggered
+2025-04-22 21:20:35,523 - drone_simulator.environment - INFO [environment.py:144] - Dust storm event triggered
+2025-04-22 21:20:36,551 - drone_simulator.environment - INFO [environment.py:144] - Dust storm event triggered
+2025-04-22 21:20:36,552 - drone_simulator.environment - WARNING [environment.py:171] - Sensor status RED - Dust: 100%, Wind: 96.2696027811165%
+2025-04-23 11:35:26,711 - drone_simulator.environment - INFO [environment.py:144] - Dust storm event triggered
+2025-04-23 11:59:45,268 - drone_simulator.environment - INFO [environment.py:144] - Dust storm event triggered
+2025-04-23 11:59:46,291 - drone_simulator.environment - INFO [environment.py:144] - Dust storm event triggered
+2025-04-23 11:59:46,291 - drone_simulator.environment - WARNING [environment.py:171] - Sensor status RED - Dust: 77.75263611791428%, Wind: 91.32244067421942%
+2025-04-23 12:00:55,454 - drone_simulator.environment - INFO [environment.py:144] - Dust storm event triggered
+2025-04-23 12:00:55,455 - drone_simulator.environment - INFO [environment.py:175] - Sensor status YELLOW - Dust: 84.73753550348866%, Wind: 52.514511179251855%
+2025-04-23 12:00:56,482 - drone_simulator.environment - WARNING [environment.py:171] - Sensor status RED - Dust: 93.89764812672581%, Wind: 52.23166283452663%
+2025-04-23 12:02:22,854 - drone_simulator.environment - INFO [environment.py:144] - Dust storm event triggered
+2025-04-23 12:02:22,854 - drone_simulator.environment - INFO [environment.py:175] - Sensor status YELLOW - Dust: 63.02459553981505%, Wind: 65.79255151163076%
+2025-04-23 12:02:23,872 - drone_simulator.environment - INFO [environment.py:175] - Sensor status YELLOW - Dust: 63.523574232693676%, Wind: 56.094408041551596%
+2025-04-23 12:02:24,891 - drone_simulator.environment - INFO [environment.py:175] - Sensor status YELLOW - Dust: 71.52057862618597%, Wind: 63.6301966739125%
+2025-04-23 12:02:25,920 - drone_simulator.environment - INFO [environment.py:175] - Sensor status YELLOW - Dust: 64.12693931125884%, Wind: 59.029510570455734%
+2025-04-23 12:02:27,985 - drone_simulator.environment - INFO [environment.py:175] - Sensor status YELLOW - Dust: 69.27672795589295%, Wind: 61.34810105152999%
+2025-04-23 12:02:29,018 - drone_simulator.environment - INFO [environment.py:175] - Sensor status YELLOW - Dust: 62.097148709463255%, Wind: 70.71124604990511%
+2025-04-23 12:02:30,038 - drone_simulator.environment - INFO [environment.py:175] - Sensor status YELLOW - Dust: 56.801923104681755%, Wind: 73.12086801380137%
+2025-04-23 12:02:31,057 - drone_simulator.environment - INFO [environment.py:175] - Sensor status YELLOW - Dust: 49.681181436346634%, Wind: 69.500691090923%
+2025-04-23 12:02:32,081 - drone_simulator.environment - INFO [environment.py:175] - Sensor status YELLOW - Dust: 44.206082463225115%, Wind: 72.70555890513101%
+2025-04-23 12:02:33,100 - drone_simulator.environment - INFO [environment.py:144] - Dust storm event triggered
+2025-04-23 12:02:33,101 - drone_simulator.environment - WARNING [environment.py:171] - Sensor status RED - Dust: 100%, Wind: 100%
+2025-04-23 12:02:53,134 - drone_simulator.environment - INFO [environment.py:144] - Dust storm event triggered
+2025-04-23 12:02:53,135 - drone_simulator.environment - INFO [environment.py:175] - Sensor status YELLOW - Dust: 71.63857132791645%, Wind: 73.0935440005169%
+2025-04-23 12:02:54,157 - drone_simulator.environment - INFO [environment.py:175] - Sensor status YELLOW - Dust: 67.03158817771147%, Wind: 65.74341071905667%
+2025-04-23 12:02:55,181 - drone_simulator.environment - INFO [environment.py:175] - Sensor status YELLOW - Dust: 67.90963859048597%, Wind: 72.61626569414463%
+2025-04-23 12:02:56,222 - drone_simulator.environment - INFO [environment.py:175] - Sensor status YELLOW - Dust: 71.42807779825029%, Wind: 59.02374382723232%
+2025-04-23 12:02:57,237 - drone_simulator.environment - INFO [environment.py:175] - Sensor status YELLOW - Dust: 65.32901864905386%, Wind: 65.10944014435339%
+2025-04-23 12:02:58,251 - drone_simulator.environment - INFO [environment.py:144] - Dust storm event triggered
+2025-04-23 12:02:58,253 - drone_simulator.environment - WARNING [environment.py:171] - Sensor status RED - Dust: 100%, Wind: 100%
+2025-04-23 12:29:42,559 - drone_simulator.environment - INFO [environment.py:144] - Dust storm event triggered
+2025-04-23 12:29:42,561 - drone_simulator.environment - INFO [environment.py:175] - Sensor status YELLOW - Dust: 72.41477014982524%, Wind: 84.64396223757373%
+2025-04-23 12:29:43,576 - drone_simulator.environment - WARNING [environment.py:171] - Sensor status RED - Dust: 71.02088194722224%, Wind: 95.19487462009765%
+2025-04-23 12:30:11,570 - drone_simulator.environment - INFO [environment.py:144] - Dust storm event triggered
+2025-04-23 12:30:11,571 - drone_simulator.environment - INFO [environment.py:175] - Sensor status YELLOW - Dust: 72.80719915183207%, Wind: 64.22409806432455%
+2025-04-23 12:30:12,608 - drone_simulator.environment - INFO [environment.py:175] - Sensor status YELLOW - Dust: 77.35567571307944%, Wind: 59.18251297974318%
+2025-04-23 12:30:13,628 - drone_simulator.environment - INFO [environment.py:175] - Sensor status YELLOW - Dust: 84.12597668106255%, Wind: 48.099411906360444%
+2025-04-23 12:30:14,642 - drone_simulator.environment - WARNING [environment.py:171] - Sensor status RED - Dust: 92.77234683353242%, Wind: 46.255317259955305%
+2025-04-23 12:30:36,250 - drone_simulator.environment - INFO [environment.py:144] - Dust storm event triggered
+2025-04-23 12:30:36,251 - drone_simulator.environment - INFO [environment.py:175] - Sensor status YELLOW - Dust: 61.97396622623618%, Wind: 64.404554459006%
+2025-04-23 12:30:37,276 - drone_simulator.environment - INFO [environment.py:144] - Dust storm event triggered
+2025-04-23 12:30:37,278 - drone_simulator.environment - WARNING [environment.py:171] - Sensor status RED - Dust: 88.43309373520475%, Wind: 100%
+2025-04-23 12:31:15,947 - drone_simulator.environment - INFO [environment.py:144] - Dust storm event triggered
+2025-04-23 12:31:15,947 - drone_simulator.environment - INFO [environment.py:175] - Sensor status YELLOW - Dust: 66.29127312475411%, Wind: 71.99885062836522%
+2025-04-23 12:31:16,965 - drone_simulator.environment - INFO [environment.py:175] - Sensor status YELLOW - Dust: 70.57279033495564%, Wind: 65.32326488967101%
+2025-04-23 12:31:17,987 - drone_simulator.environment - INFO [environment.py:175] - Sensor status YELLOW - Dust: 73.69427059647757%, Wind: 68.68727763524805%
+2025-04-23 12:31:19,009 - drone_simulator.environment - INFO [environment.py:175] - Sensor status YELLOW - Dust: 74.51667597097142%, Wind: 72.441256056882%
+2025-04-23 12:31:20,038 - drone_simulator.environment - INFO [environment.py:175] - Sensor status YELLOW - Dust: 77.11017690778377%, Wind: 67.392170855833%
+2025-04-23 12:31:21,054 - drone_simulator.environment - INFO [environment.py:144] - Dust storm event triggered
+2025-04-23 12:31:21,055 - drone_simulator.environment - WARNING [environment.py:171] - Sensor status RED - Dust: 100%, Wind: 100%
+2025-04-23 12:33:49,288 - drone_simulator.environment - INFO [environment.py:144] - Dust storm event triggered
+2025-04-23 12:33:49,289 - drone_simulator.environment - INFO [environment.py:175] - Sensor status YELLOW - Dust: 63.755605972251146%, Wind: 50.12883780486734%
+2025-04-23 12:33:50,311 - drone_simulator.environment - INFO [environment.py:175] - Sensor status YELLOW - Dust: 62.68052897938804%, Wind: 61.95349967620648%
+2025-04-23 12:33:51,338 - drone_simulator.environment - INFO [environment.py:144] - Dust storm event triggered
+2025-04-23 12:33:51,341 - drone_simulator.environment - WARNING [environment.py:171] - Sensor status RED - Dust: 100%, Wind: 100%
+2025-04-23 12:34:17,464 - drone_simulator.environment - INFO [environment.py:144] - Dust storm event triggered
+2025-04-23 12:34:18,489 - drone_simulator.environment - INFO [environment.py:144] - Dust storm event triggered
+2025-04-23 12:34:18,491 - drone_simulator.environment - WARNING [environment.py:171] - Sensor status RED - Dust: 99.68145742933629%, Wind: 100%
+2025-04-23 12:36:06,568 - drone_simulator.environment - INFO [environment.py:144] - Dust storm event triggered
+2025-04-23 12:36:07,591 - drone_simulator.environment - INFO [environment.py:175] - Sensor status YELLOW - Dust: 61.64244162369401%, Wind: 56.89051564106716%
+2025-04-23 12:36:08,617 - drone_simulator.environment - INFO [environment.py:144] - Dust storm event triggered
+2025-04-23 12:36:08,617 - drone_simulator.environment - WARNING [environment.py:171] - Sensor status RED - Dust: 99.96240843795555%, Wind: 100%
+2025-04-23 12:39:21,171 - drone_simulator.environment - INFO [environment.py:144] - Dust storm event triggered
+2025-04-23 12:39:21,171 - drone_simulator.environment - INFO [environment.py:175] - Sensor status YELLOW - Dust: 66.23940207200826%, Wind: 83.31826714161593%
+2025-04-23 12:39:22,189 - drone_simulator.environment - WARNING [environment.py:171] - Sensor status RED - Dust: 58.361800283344415%, Wind: 96.11018291842728%
+2025-04-23 12:42:07,715 - drone_simulator.environment - INFO [environment.py:144] - Dust storm event triggered
+2025-04-23 12:42:14,879 - drone_simulator.environment - INFO [environment.py:144] - Dust storm event triggered
+2025-04-23 12:42:14,879 - drone_simulator.environment - INFO [environment.py:175] - Sensor status YELLOW - Dust: 72.44030915710532%, Wind: 84.5168554385568%
+2025-04-23 12:42:15,912 - drone_simulator.environment - WARNING [environment.py:171] - Sensor status RED - Dust: 77.29312074130688%, Wind: 91.81849058212349%
+2025-04-23 12:42:16,939 - drone_simulator.environment - INFO [environment.py:144] - Dust storm event triggered
+2025-04-23 12:42:16,940 - drone_simulator.environment - WARNING [environment.py:171] - Sensor status RED - Dust: 100%, Wind: 100%
+2025-04-23 12:42:17,972 - drone_simulator.environment - WARNING [environment.py:171] - Sensor status RED - Dust: 95.5802015175889%, Wind: 96.41804685157976%
+2025-04-23 12:42:18,983 - drone_simulator.environment - WARNING [environment.py:171] - Sensor status RED - Dust: 100%, Wind: 100%
+2025-04-23 12:42:20,007 - drone_simulator.environment - INFO [environment.py:144] - Dust storm event triggered
+2025-04-23 12:42:20,008 - drone_simulator.environment - WARNING [environment.py:171] - Sensor status RED - Dust: 100%, Wind: 100%
+2025-04-23 12:42:21,030 - drone_simulator.environment - WARNING [environment.py:171] - Sensor status RED - Dust: 99.8228269980096%, Wind: 100%
+2025-04-23 12:42:22,051 - drone_simulator.environment - WARNING [environment.py:171] - Sensor status RED - Dust: 100%, Wind: 94.57980680519479%
+2025-04-23 12:42:23,072 - drone_simulator.environment - WARNING [environment.py:171] - Sensor status RED - Dust: 95.65420797303912%, Wind: 92.15966856947324%
+2025-04-23 12:42:24,104 - drone_simulator.environment - WARNING [environment.py:171] - Sensor status RED - Dust: 96.93046820281701%, Wind: 99.05216964273446%
+2025-04-23 12:42:25,125 - drone_simulator.environment - INFO [environment.py:144] - Dust storm event triggered
+2025-04-23 12:42:25,126 - drone_simulator.environment - WARNING [environment.py:171] - Sensor status RED - Dust: 100%, Wind: 100%
+2025-04-23 12:42:26,145 - drone_simulator.environment - INFO [environment.py:144] - Dust storm event triggered
+2025-04-23 12:42:26,146 - drone_simulator.environment - WARNING [environment.py:171] - Sensor status RED - Dust: 100%, Wind: 100%
+2025-04-23 12:42:27,162 - drone_simulator.environment - INFO [environment.py:144] - Dust storm event triggered
+2025-04-23 12:42:27,163 - drone_simulator.environment - WARNING [environment.py:171] - Sensor status RED - Dust: 100%, Wind: 100%
+2025-04-23 12:42:28,203 - drone_simulator.environment - INFO [environment.py:144] - Dust storm event triggered
+2025-04-23 12:42:28,204 - drone_simulator.environment - WARNING [environment.py:171] - Sensor status RED - Dust: 100%, Wind: 100%
+2025-04-23 12:42:29,226 - drone_simulator.environment - WARNING [environment.py:171] - Sensor status RED - Dust: 100%, Wind: 96.6514505275905%
+2025-04-23 12:42:30,246 - drone_simulator.environment - WARNING [environment.py:171] - Sensor status RED - Dust: 100%, Wind: 97.1007571427462%
+2025-04-23 13:01:40,198 - drone_simulator.environment - INFO [environment.py:144] - Dust storm event triggered
+2025-04-23 13:01:40,199 - drone_simulator.environment - INFO [environment.py:175] - Sensor status YELLOW - Dust: 69.06578146517447%, Wind: 72.80946286590618%
+2025-04-23 13:01:41,226 - drone_simulator.environment - INFO [environment.py:175] - Sensor status YELLOW - Dust: 66.18784827675418%, Wind: 81.65836478738461%
+2025-04-23 13:01:42,244 - drone_simulator.environment - WARNING [environment.py:171] - Sensor status RED - Dust: 57.343820691515944%, Wind: 93.47081356312574%
+2025-04-23 13:03:47,558 - drone_simulator.environment - INFO [environment.py:144] - Dust storm event triggered
+2025-04-23 13:03:47,559 - drone_simulator.environment - INFO [environment.py:175] - Sensor status YELLOW - Dust: 61.910909026059144%, Wind: 66.90555847951697%
+2025-04-23 13:03:48,574 - drone_simulator.environment - INFO [environment.py:175] - Sensor status YELLOW - Dust: 56.33343591205682%, Wind: 75.36947756559718%
+2025-04-23 13:03:49,598 - drone_simulator.environment - INFO [environment.py:175] - Sensor status YELLOW - Dust: 53.52498722444759%, Wind: 72.15860407666757%
+2025-04-23 13:03:50,617 - drone_simulator.environment - INFO [environment.py:144] - Dust storm event triggered
+2025-04-23 13:03:50,619 - drone_simulator.environment - WARNING [environment.py:171] - Sensor status RED - Dust: 100%, Wind: 100%
+2025-04-23 13:04:54,913 - drone_simulator.environment - INFO [environment.py:144] - Dust storm event triggered
+2025-04-23 13:04:55,936 - drone_simulator.environment - INFO [environment.py:144] - Dust storm event triggered
+2025-04-23 13:04:55,936 - drone_simulator.environment - WARNING [environment.py:171] - Sensor status RED - Dust: 100%, Wind: 91.27321242395175%
+2025-04-23 13:05:55,979 - drone_simulator.environment - INFO [environment.py:144] - Dust storm event triggered
+2025-04-23 13:05:55,980 - drone_simulator.environment - INFO [environment.py:175] - Sensor status YELLOW - Dust: 64.13588805339212%, Wind: 68.82799563523508%
+2025-04-23 13:05:57,011 - drone_simulator.environment - INFO [environment.py:175] - Sensor status YELLOW - Dust: 67.33577954109575%, Wind: 82.29495809620225%
+2025-04-23 13:05:58,026 - drone_simulator.environment - INFO [environment.py:175] - Sensor status YELLOW - Dust: 69.75324333338749%, Wind: 83.36684623805266%
+2025-04-23 13:05:59,045 - drone_simulator.environment - INFO [environment.py:175] - Sensor status YELLOW - Dust: 74.95320320611432%, Wind: 85.38463526919408%
+2025-04-23 13:06:00,079 - drone_simulator.environment - INFO [environment.py:144] - Dust storm event triggered
+2025-04-23 13:06:00,079 - drone_simulator.environment - WARNING [environment.py:171] - Sensor status RED - Dust: 100%, Wind: 100%
+2025-04-23 13:06:13,993 - drone_simulator.environment - INFO [environment.py:144] - Dust storm event triggered
+2025-04-23 13:06:16,049 - drone_simulator.environment - INFO [environment.py:175] - Sensor status YELLOW - Dust: 42.154571354944956%, Wind: 65.28867646320039%
+2025-04-23 13:06:17,072 - drone_simulator.environment - INFO [environment.py:175] - Sensor status YELLOW - Dust: 51.17236084376162%, Wind: 68.67123677513511%
+2025-04-23 13:06:18,086 - drone_simulator.environment - INFO [environment.py:175] - Sensor status YELLOW - Dust: 41.35137356685425%, Wind: 61.07740166123148%
+2025-04-23 13:06:19,123 - drone_simulator.environment - INFO [environment.py:175] - Sensor status YELLOW - Dust: 43.29400687840391%, Wind: 61.260725423035176%
+2025-04-23 13:06:21,175 - drone_simulator.environment - INFO [environment.py:175] - Sensor status YELLOW - Dust: 44.2205184545962%, Wind: 60.153443055255934%
+2025-04-23 13:06:23,216 - drone_simulator.environment - INFO [environment.py:144] - Dust storm event triggered
+2025-04-23 13:06:23,218 - drone_simulator.environment - INFO [environment.py:175] - Sensor status YELLOW - Dust: 82.6173283396897%, Wind: 87.09715909564912%
+2025-04-23 13:06:24,247 - drone_simulator.environment - WARNING [environment.py:171] - Sensor status RED - Dust: 74.8331117138688%, Wind: 90.91329231813842%
+2025-04-23 18:34:30,199 - drone_simulator.environment - INFO [environment.py:144] - Dust storm event triggered
+2025-04-23 18:34:30,199 - drone_simulator.environment - INFO [environment.py:175] - Sensor status YELLOW - Dust: 62.18840068088738%, Wind: 59.45613851796594%
+2025-04-23 18:34:31,213 - drone_simulator.environment - INFO [environment.py:144] - Dust storm event triggered
+2025-04-23 18:34:31,214 - drone_simulator.environment - WARNING [environment.py:171] - Sensor status RED - Dust: 100%, Wind: 100%
+2025-04-23 18:34:44,891 - drone_simulator.environment - INFO [environment.py:144] - Dust storm event triggered
+2025-04-23 18:34:44,892 - drone_simulator.environment - INFO [environment.py:175] - Sensor status YELLOW - Dust: 69.75966750844952%, Wind: 80.17515700346996%
+2025-04-23 18:34:45,908 - drone_simulator.environment - WARNING [environment.py:171] - Sensor status RED - Dust: 73.75819294633135%, Wind: 91.2914601740865%
+2025-04-23 18:35:08,607 - drone_simulator.environment - INFO [environment.py:144] - Dust storm event triggered
+2025-04-23 18:35:08,608 - drone_simulator.environment - INFO [environment.py:175] - Sensor status YELLOW - Dust: 76.8899293882978%, Wind: 65.81329105055885%
+2025-04-23 18:35:09,624 - drone_simulator.environment - INFO [environment.py:175] - Sensor status YELLOW - Dust: 72.57060371604842%, Wind: 72.50127223943541%
+2025-04-23 18:35:10,635 - drone_simulator.environment - INFO [environment.py:175] - Sensor status YELLOW - Dust: 80.09090560378624%, Wind: 64.67281352633142%
+2025-04-23 18:35:11,652 - drone_simulator.environment - INFO [environment.py:175] - Sensor status YELLOW - Dust: 85.69923947051679%, Wind: 70.60590969358758%
+2025-04-23 18:35:12,688 - drone_simulator.environment - INFO [environment.py:175] - Sensor status YELLOW - Dust: 87.26471772656106%, Wind: 73.81569129029968%
+2025-04-23 18:35:13,711 - drone_simulator.environment - INFO [environment.py:144] - Dust storm event triggered
+2025-04-23 18:35:13,711 - drone_simulator.environment - WARNING [environment.py:171] - Sensor status RED - Dust: 100%, Wind: 100%
+2025-04-23 21:39:04,363 - drone_simulator.environment - INFO [environment.py:144] - Dust storm event triggered
+2025-04-23 21:45:20,914 - drone_simulator.environment - INFO [environment.py:144] - Dust storm event triggered
+2025-04-23 21:45:22,455 - drone_simulator.environment - INFO [environment.py:144] - Dust storm event triggered
+2025-04-23 21:45:22,456 - drone_simulator.environment - INFO [environment.py:175] - Sensor status YELLOW - Dust: 57.859759352753215%, Wind: 61.73187806450333%
+2025-04-23 21:45:22,977 - drone_simulator.environment - INFO [environment.py:175] - Sensor status YELLOW - Dust: 61.769622497373774%, Wind: 76.54318669334025%
+2025-04-23 21:45:23,486 - drone_simulator.environment - WARNING [environment.py:171] - Sensor status RED - Dust: 61.839022680324454%, Wind: 91.34798585894299%
+2025-04-23 22:00:35,853 - drone_simulator.environment - INFO [environment.py:144] - Dust storm event triggered
+2025-04-23 22:00:36,883 - drone_simulator.environment - INFO [environment.py:175] - Sensor status YELLOW - Dust: 47.698882509805486%, Wind: 62.51114264892972%
+2025-04-23 22:00:37,406 - drone_simulator.environment - INFO [environment.py:144] - Dust storm event triggered
+2025-04-23 22:00:37,407 - drone_simulator.environment - WARNING [environment.py:171] - Sensor status RED - Dust: 100%, Wind: 100%
+2025-04-23 22:00:51,803 - drone_simulator.environment - INFO [environment.py:144] - Dust storm event triggered
+2025-04-23 22:00:52,327 - drone_simulator.environment - INFO [environment.py:144] - Dust storm event triggered
+2025-04-23 22:00:52,328 - drone_simulator.environment - WARNING [environment.py:171] - Sensor status RED - Dust: 100%, Wind: 89.88687936073289%
+2025-04-23 22:08:22,748 - drone_simulator.environment - INFO [environment.py:144] - Dust storm event triggered
+2025-04-23 22:08:23,259 - drone_simulator.environment - INFO [environment.py:144] - Dust storm event triggered
+2025-04-23 22:08:23,259 - drone_simulator.environment - INFO [environment.py:175] - Sensor status YELLOW - Dust: 79.54003130249184%, Wind: 78.60271768580387%
+2025-04-23 22:08:23,768 - drone_simulator.environment - INFO [environment.py:175] - Sensor status YELLOW - Dust: 85.1727985355432%, Wind: 82.21953451524392%
+2025-04-23 22:08:24,279 - drone_simulator.environment - WARNING [environment.py:171] - Sensor status RED - Dust: 92.53929315336627%, Wind: 73.77239092807294%
+2025-04-23 22:16:32,489 - drone_simulator.environment - INFO [environment.py:144] - Dust storm event triggered
+2025-04-23 22:16:33,013 - drone_simulator.environment - INFO [environment.py:144] - Dust storm event triggered
+2025-04-23 22:16:33,014 - drone_simulator.environment - INFO [environment.py:175] - Sensor status YELLOW - Dust: 69.25033374413837%, Wind: 58.41939757699676%
+2025-04-23 22:16:33,535 - drone_simulator.environment - INFO [environment.py:144] - Dust storm event triggered
+2025-04-23 22:16:33,535 - drone_simulator.environment - WARNING [environment.py:171] - Sensor status RED - Dust: 100%, Wind: 100%
+2025-04-23 22:16:49,105 - drone_simulator.environment - INFO [environment.py:144] - Dust storm event triggered
+2025-04-23 22:16:50,127 - drone_simulator.environment - INFO [environment.py:144] - Dust storm event triggered
+2025-04-23 22:16:50,128 - drone_simulator.environment - WARNING [environment.py:171] - Sensor status RED - Dust: 82.79720830624099%, Wind: 90.94442726325022%
+2025-04-23 22:17:28,376 - drone_simulator.environment - INFO [environment.py:144] - Dust storm event triggered
+2025-04-23 22:17:28,376 - drone_simulator.environment - INFO [environment.py:175] - Sensor status YELLOW - Dust: 61.64892145567818%, Wind: 56.97242271230332%
+2025-04-23 22:17:29,396 - drone_simulator.environment - INFO [environment.py:144] - Dust storm event triggered
+2025-04-23 22:17:29,397 - drone_simulator.environment - WARNING [environment.py:171] - Sensor status RED - Dust: 88.22294737866828%, Wind: 99.04316115346141%
+2025-04-23 22:18:15,647 - drone_simulator.environment - INFO [environment.py:144] - Dust storm event triggered
+2025-04-23 22:18:17,702 - drone_simulator.environment - INFO [environment.py:144] - Dust storm event triggered
+2025-04-23 22:18:17,703 - drone_simulator.environment - WARNING [environment.py:171] - Sensor status RED - Dust: 95.90917768977138%, Wind: 99.29137457538887%
+2025-04-23 22:18:43,568 - drone_simulator.environment - INFO [environment.py:144] - Dust storm event triggered
+2025-04-23 22:18:44,605 - drone_simulator.environment - INFO [environment.py:175] - Sensor status YELLOW - Dust: 60.48840667141646%, Wind: 53.207216941969335%
+2025-04-23 22:18:45,621 - drone_simulator.environment - INFO [environment.py:144] - Dust storm event triggered
+2025-04-23 22:18:45,622 - drone_simulator.environment - WARNING [environment.py:171] - Sensor status RED - Dust: 100%, Wind: 100%
+2025-04-23 22:19:04,024 - drone_simulator.environment - INFO [environment.py:144] - Dust storm event triggered
+2025-04-23 22:19:04,024 - drone_simulator.environment - INFO [environment.py:175] - Sensor status YELLOW - Dust: 84.74102499998168%, Wind: 70.66673019684785%
+2025-04-23 22:19:05,057 - drone_simulator.environment - WARNING [environment.py:171] - Sensor status RED - Dust: 92.33281716484132%, Wind: 82.89054219283872%
+2025-04-23 22:19:24,818 - drone_simulator.environment - INFO [environment.py:144] - Dust storm event triggered
+2025-04-23 22:19:24,819 - drone_simulator.environment - INFO [environment.py:175] - Sensor status YELLOW - Dust: 59.8930206299709%, Wind: 85.75344817897997%
+2025-04-23 22:19:25,846 - drone_simulator.environment - INFO [environment.py:175] - Sensor status YELLOW - Dust: 57.293198241386584%, Wind: 82.50714912359201%
+2025-04-23 22:19:26,850 - drone_simulator.environment - INFO [environment.py:175] - Sensor status YELLOW - Dust: 64.6775231294861%, Wind: 85.00788400512307%
+2025-04-23 22:19:27,877 - drone_simulator.environment - INFO [environment.py:175] - Sensor status YELLOW - Dust: 67.95006032663872%, Wind: 89.24611460814256%
+2025-04-23 22:19:28,900 - drone_simulator.environment - INFO [environment.py:175] - Sensor status YELLOW - Dust: 60.1474920146931%, Wind: 79.30434547761043%
+2025-04-23 22:19:29,927 - drone_simulator.environment - INFO [environment.py:175] - Sensor status YELLOW - Dust: 59.592053277669024%, Wind: 70.9898728963996%
+2025-04-23 22:19:30,939 - drone_simulator.environment - INFO [environment.py:144] - Dust storm event triggered
+2025-04-23 22:19:30,939 - drone_simulator.environment - WARNING [environment.py:171] - Sensor status RED - Dust: 100%, Wind: 100%
+2025-04-23 23:05:16,552 - drone_simulator.environment - INFO [environment.py:144] - Dust storm event triggered
+2025-04-23 23:05:19,617 - drone_simulator.environment - INFO [environment.py:175] - Sensor status YELLOW - Dust: 29.197209607003604%, Wind: 63.00133150271512%
+2025-04-23 23:05:21,671 - drone_simulator.environment - INFO [environment.py:175] - Sensor status YELLOW - Dust: 33.32260533198907%, Wind: 70.7829219604819%
+2025-04-23 23:06:14,968 - drone_simulator.environment - INFO [environment.py:144] - Dust storm event triggered
+2025-04-23 23:06:14,969 - drone_simulator.environment - INFO [environment.py:175] - Sensor status YELLOW - Dust: 57.947508729744946%, Wind: 68.34872977466637%
+2025-04-23 23:06:15,999 - drone_simulator.environment - INFO [environment.py:175] - Sensor status YELLOW - Dust: 50.952593870692375%, Wind: 60.01990709828891%
+2025-04-23 23:06:30,923 - drone_simulator.environment - INFO [environment.py:144] - Dust storm event triggered
+2025-04-23 23:06:31,942 - drone_simulator.environment - INFO [environment.py:144] - Dust storm event triggered
+2025-04-23 23:06:31,943 - drone_simulator.environment - WARNING [environment.py:171] - Sensor status RED - Dust: 100%, Wind: 100%
+2025-04-23 23:15:22,378 - drone_simulator.environment - INFO [environment.py:144] - Dust storm event triggered
+2025-04-23 23:15:24,414 - drone_simulator.environment - INFO [environment.py:175] - Sensor status YELLOW - Dust: 63.12125408501633%, Wind: 57.982615296456906%
+2025-04-23 23:15:25,442 - drone_simulator.environment - INFO [environment.py:175] - Sensor status YELLOW - Dust: 61.21127402061071%, Wind: 51.55988307011357%
+2025-04-23 23:15:27,505 - drone_simulator.environment - INFO [environment.py:144] - Dust storm event triggered
+2025-04-23 23:15:27,506 - drone_simulator.environment - WARNING [environment.py:171] - Sensor status RED - Dust: 100%, Wind: 100%
+2025-04-23 23:15:43,353 - drone_simulator.environment - INFO [environment.py:144] - Dust storm event triggered
+2025-04-23 23:15:46,427 - drone_simulator.environment - INFO [environment.py:144] - Dust storm event triggered
+2025-04-23 23:15:46,428 - drone_simulator.environment - INFO [environment.py:175] - Sensor status YELLOW - Dust: 74.88366756806056%, Wind: 89.43768010145587%
+2025-04-23 23:34:10,258 - drone_simulator.environment - INFO [environment.py:144] - Dust storm event triggered
+2025-04-23 23:34:10,264 - drone_simulator.environment - INFO [environment.py:175] - Sensor status YELLOW - Dust: 65.55272968837986%, Wind: 71.73460525561708%
+2025-04-23 23:34:11,291 - drone_simulator.environment - INFO [environment.py:144] - Dust storm event triggered
+2025-04-23 23:34:11,292 - drone_simulator.environment - WARNING [environment.py:171] - Sensor status RED - Dust: 100%, Wind: 100%
+2025-04-23 23:37:06,322 - drone_simulator.environment - INFO [environment.py:144] - Dust storm event triggered
+2025-04-23 23:37:09,384 - drone_simulator.environment - INFO [environment.py:175] - Sensor status YELLOW - Dust: 64.12157420007827%, Wind: 64.79430861601257%
+2025-04-23 23:37:10,415 - drone_simulator.environment - INFO [environment.py:144] - Dust storm event triggered
+2025-04-23 23:37:10,416 - drone_simulator.environment - WARNING [environment.py:171] - Sensor status RED - Dust: 100%, Wind: 100%
+2025-04-23 23:38:41,029 - drone_simulator.environment - INFO [environment.py:144] - Dust storm event triggered
+2025-04-23 23:38:41,030 - drone_simulator.environment - INFO [environment.py:175] - Sensor status YELLOW - Dust: 48.54400474881599%, Wind: 72.13840308967086%
+2025-04-23 23:38:42,048 - drone_simulator.environment - INFO [environment.py:175] - Sensor status YELLOW - Dust: 54.672874485663414%, Wind: 75.90448310551756%
+2025-04-23 23:38:43,071 - drone_simulator.environment - INFO [environment.py:144] - Dust storm event triggered
+2025-04-23 23:38:43,072 - drone_simulator.environment - WARNING [environment.py:171] - Sensor status RED - Dust: 100%, Wind: 100%
+2025-04-23 23:38:59,255 - drone_simulator.environment - INFO [environment.py:144] - Dust storm event triggered
+2025-04-23 23:39:00,262 - drone_simulator.environment - INFO [environment.py:144] - Dust storm event triggered
+2025-04-23 23:39:00,263 - drone_simulator.environment - WARNING [environment.py:171] - Sensor status RED - Dust: 74.50823307334491%, Wind: 94.25782556952035%
+2025-04-23 23:41:47,828 - drone_simulator.environment - INFO [environment.py:144] - Dust storm event triggered
+2025-04-23 23:41:47,828 - drone_simulator.environment - INFO [environment.py:175] - Sensor status YELLOW - Dust: 47.40878421077248%, Wind: 62.52073233780659%
+2025-04-23 23:41:48,848 - drone_simulator.environment - INFO [environment.py:175] - Sensor status YELLOW - Dust: 42.01549152657633%, Wind: 66.69719386406123%
+2025-04-23 23:41:49,863 - drone_simulator.environment - INFO [environment.py:144] - Dust storm event triggered
+2025-04-23 23:41:49,864 - drone_simulator.environment - WARNING [environment.py:171] - Sensor status RED - Dust: 67.41209706206237%, Wind: 100%
+2025-04-23 23:42:12,121 - drone_simulator.environment - INFO [environment.py:144] - Dust storm event triggered
+2025-04-23 23:42:12,121 - drone_simulator.environment - INFO [environment.py:175] - Sensor status YELLOW - Dust: 63.48244352493788%, Wind: 71.04887713272625%
+2025-04-23 23:42:15,164 - drone_simulator.environment - INFO [environment.py:175] - Sensor status YELLOW - Dust: 56.800967077845335%, Wind: 64.74881738856553%
+2025-04-23 23:42:17,213 - drone_simulator.environment - INFO [environment.py:144] - Dust storm event triggered
+2025-04-23 23:42:17,214 - drone_simulator.environment - WARNING [environment.py:171] - Sensor status RED - Dust: 100%, Wind: 100%
+2025-04-23 23:42:32,563 - drone_simulator.environment - INFO [environment.py:144] - Dust storm event triggered
+2025-04-23 23:42:37,679 - drone_simulator.environment - INFO [environment.py:144] - Dust storm event triggered
+2025-04-23 23:42:37,680 - drone_simulator.environment - WARNING [environment.py:171] - Sensor status RED - Dust: 100%, Wind: 98.79231860951259%
+2025-04-23 23:48:40,699 - drone_simulator.environment - INFO [environment.py:144] - Dust storm event triggered
+2025-04-23 23:49:18,295 - drone_simulator.environment - INFO [environment.py:144] - Dust storm event triggered
+2025-04-23 23:49:18,295 - drone_simulator.environment - INFO [environment.py:175] - Sensor status YELLOW - Dust: 65.46776994669523%, Wind: 53.70510327560119%
+2025-04-23 23:49:18,807 - drone_simulator.environment - INFO [environment.py:175] - Sensor status YELLOW - Dust: 64.26061548510864%, Wind: 60.212909112691804%
+2025-04-23 23:49:20,843 - drone_simulator.environment - INFO [environment.py:144] - Dust storm event triggered
+2025-04-23 23:49:20,843 - drone_simulator.environment - WARNING [environment.py:171] - Sensor status RED - Dust: 100%, Wind: 100%
+2025-04-23 23:55:05,245 - drone_simulator.environment - INFO [environment.py:144] - Dust storm event triggered
+2025-04-23 23:55:05,245 - drone_simulator.environment - INFO [environment.py:175] - Sensor status YELLOW - Dust: 66.36168207503884%, Wind: 57.631007181451%
+2025-04-23 23:55:06,264 - drone_simulator.environment - INFO [environment.py:144] - Dust storm event triggered
+2025-04-23 23:55:06,266 - drone_simulator.environment - WARNING [environment.py:171] - Sensor status RED - Dust: 100%, Wind: 99.64143594257497%
+2025-04-23 23:55:32,486 - drone_simulator.environment - INFO [environment.py:144] - Dust storm event triggered
+2025-04-23 23:55:32,487 - drone_simulator.environment - INFO [environment.py:175] - Sensor status YELLOW - Dust: 69.44137215063597%, Wind: 86.97030055854442%
+2025-04-23 23:55:33,507 - drone_simulator.environment - INFO [environment.py:175] - Sensor status YELLOW - Dust: 71.65321560169781%, Wind: 79.07094995005208%
+2025-04-23 23:55:34,523 - drone_simulator.environment - INFO [environment.py:175] - Sensor status YELLOW - Dust: 69.63495161227458%, Wind: 78.18562374056286%
+2025-04-23 23:55:35,560 - drone_simulator.environment - INFO [environment.py:175] - Sensor status YELLOW - Dust: 68.32952600600781%, Wind: 81.27118646947307%
